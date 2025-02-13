@@ -5,5 +5,5 @@
 * I'm learning coding(cpp, gml and i have less knowledge in ren'py and python);
 * I play acoustic guitar.
 
-and i think its all
-thanks for reading! 💫
+And i think its all.
+Thanks for reading! 💫
